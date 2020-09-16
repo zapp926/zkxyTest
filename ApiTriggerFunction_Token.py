@@ -24,4 +24,4 @@ def VRTrigger(triggerList, sceneUid, subjUid):
 
 if __name__ == "__main__":
     VRTrigger(triggerList[5], '5f5f49b1eb6e92207652afd5', '5f4debc7eb6e92141c356070')
-    # VRTrigger(triggerList[1], sceneUid, subjUid)
+
